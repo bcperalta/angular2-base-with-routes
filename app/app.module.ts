@@ -7,5 +7,7 @@ import appRoutes from "./app.routes"
     imports: [ BrowserModule, appRoutes],
     bootstrap: [ AppComponent ]
 })
-export class AppModule {}
+export class AppModule {
+
+}
 

@@ -9,8 +9,9 @@
     "removeComments": false,
     "noImplicitAny": false
   },
-  "files": [
-    "app/main.ts",
+  "filesGlob": [
+    "app/*.ts",
+    "app/**/*.ts",
     "typings/browser.d.ts"
   ],
   "exclude": [
