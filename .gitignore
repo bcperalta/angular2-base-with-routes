@@ -2,7 +2,7 @@ node_modules
 main.js
 main.js.map
 npm-debug.logs
-app/*.js
-app/*.js.map
 .*
 !.gitignore
+*.map
+*.js
