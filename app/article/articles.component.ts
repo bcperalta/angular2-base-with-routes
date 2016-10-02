@@ -1,6 +1,6 @@
 import {Component} from "@angular/core";
 @Component({
     selector:'articles',
-    template:`article component`
+    template:`articles component`
 })
 export class ArticlesComponent{}
