@@ -11,7 +11,7 @@
   var packages = {
     'rxjs': { defaultExtension: 'js' },
       app: {
-        format: 'register',
+        main: 'main.js',
         defaultExtension: 'js'
       }
   };
